@@ -6,6 +6,7 @@ html,body{
     box-sizing: border-box;
     background-color: white;
 }
+
 .header1{
     display: flex;
     justify-content: center;
